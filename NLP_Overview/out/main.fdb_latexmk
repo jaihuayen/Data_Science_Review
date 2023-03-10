@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex out/main"] 1678449622 "out/main.aux" "out/main.bbl" "out/main" 1678449636 0
+["bibtex out/main"] 1678449622 "out/main.aux" "out/main.bbl" "out/main" 1678454050 0
   "./sections/main.bib" 1678383346 234 75ecb62a5fe0f5d16a13608e8ad0dd79 ""
   "/opt/texlive/texdir/texmf-dist/bibtex/bst/base/abbrv.bst" 1292289607 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "out/main.aux" 1678449635 5259 b3db950972ff6d20c8fe38e160cfd5ca "pdflatex"
+  "out/main.aux" 1678454049 5259 b3db950972ff6d20c8fe38e160cfd5ca "pdflatex"
   (generated)
   "out/main.bbl"
   "out/main.blg"
   (rewritten before read)
-["pdflatex"] 1678449622 "main.tex" "out/main.pdf" "main" 1678449636 0
+["pdflatex"] 1678454038 "main.tex" "out/main.pdf" "main" 1678454050 0
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/opt/texlive/texdir/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/jknappen/ec/tcss1000.tfm" 1136768653 1536 293044035fd171bb1d18cf655049b101 ""
@@ -283,12 +283,12 @@
   "out/../images/img_3.png" 1678381426 166238 d6e4e9ad733e9ecf742c3434ef3f2248 ""
   "out/../images/img_4.png" 1678381680 39148 2a6906a3e1fb1b4c5f3bb67b7533e44d ""
   "out/../images/img_5.png" 1678382032 85428 704fb9b2b26b39b12c67edc57c1d2e74 ""
-  "out/main.aux" 1678449635 5259 b3db950972ff6d20c8fe38e160cfd5ca "pdflatex"
+  "out/main.aux" 1678454049 5259 b3db950972ff6d20c8fe38e160cfd5ca "pdflatex"
   "out/main.bbl" 1678449622 215 c2a53a68d9313f2930b146fd5fe00841 "bibtex out/main"
-  "out/main.nav" 1678449635 2946 080e0842aca98e28a56dc92e4c219f7d "pdflatex"
-  "out/main.out" 1678449635 594 131ab0eb07da65a93da7a624c6fe45c1 "pdflatex"
-  "out/main.toc" 1678449635 270 c00fedb0ee85e919a3b4b384c2b39282 "pdflatex"
-  "out/main.vrb" 1678449634 336 663f4584a3e6eb5182585142e8873f84 "pdflatex"
+  "out/main.nav" 1678454049 2946 080e0842aca98e28a56dc92e4c219f7d "pdflatex"
+  "out/main.out" 1678454049 594 131ab0eb07da65a93da7a624c6fe45c1 "pdflatex"
+  "out/main.toc" 1678454049 270 c00fedb0ee85e919a3b4b384c2b39282 "pdflatex"
+  "out/main.vrb" 1678454048 336 663f4584a3e6eb5182585142e8873f84 "pdflatex"
   "sections/../images/img_1.png" 1678371350 97571 f0ce101ef3a0b19cfba859eb661092d3 ""
   "sections/../images/img_2.png" 1678381426 146734 50962f338e78fdbfeed7c8f81f45a02f ""
   "sections/../images/img_3.png" 1678381426 166238 d6e4e9ad733e9ecf742c3434ef3f2248 ""
@@ -297,7 +297,7 @@
   "sections/appentix.tex" 1678382478 107 e853370b829f06a558012f96021a9749 ""
   "sections/bert.tex" 1678382498 0 d41d8cd98f00b204e9800998ecf8427e ""
   "sections/conclusion.tex" 1678382478 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "sections/introduction.tex" 1678379842 757 cbbe4f7a1129a9dfc9b545850dcabeaf ""
+  "sections/introduction.tex" 1678454036 759 f9d04a2292bab1a6ce06c4fcf71b2af2 ""
   "sections/tfidf.tex" 1678382446 0 d41d8cd98f00b204e9800998ecf8427e ""
   "sections/transformer.tex" 1678382478 0 d41d8cd98f00b204e9800998ecf8427e ""
   "sections/word2vec.tex" 1678382708 1496 14dd7b60fcdac10cb0fb0e6f29e88f23 ""
