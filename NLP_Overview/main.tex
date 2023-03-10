@@ -1,0 +1,68 @@
+\documentclass[10pt]{beamer}
+
+\usetheme[progressbar=frametitle,
+subsectionpage=progressbar,
+block=fill]{metropolis}
+\usepackage{appendixnumberbeamer}
+
+\usepackage{booktabs}
+\usepackage[scale=2]{ccicons}
+
+\usepackage{pgfplots}
+\usepgfplotslibrary{dateplot}
+
+\usepackage{xspace}
+\newcommand{\themename}{\textbf{\textsc{metropolis}}\xspace}
+
+\usepackage{subfiles}
+
+\title{An Overview of Natural Language Processing}
+\subtitle{From Word2Vec To GPT}
+\date{\today}
+\author{Jaihua Yen}
+\institute{QNAP}
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}{Table of contents}
+  \setbeamertemplate{section in toc}[sections numbered]
+  \tableofcontents%[hideallsubsections]
+\end{frame}
+
+\section{Introduction}
+
+\subfile{sections/introduction}
+
+\section{TF-IDF}
+
+\subfile{sections/tfidf}
+
+\section{Word2Vec}
+
+\subfile{sections/word2vec}
+
+\section{Transformer}
+
+\subfile{sections/transformer}
+
+\section{BERT}
+
+\subfile{sections/bert}
+
+\section{Conclusion}
+
+\subfile{sections/conclusion}
+
+\appendix
+
+% Questions Slide
+
+\begin{frame}[standout]
+  Questions?
+\end{frame}
+
+\subfile{sections/appentix}
+
+\end{document}
