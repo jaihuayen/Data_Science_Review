@@ -1629,6 +1629,11 @@ INPUT out/main.vrb
 INPUT out/main.vrb
 INPUT out/main.vrb
 INPUT out/main.vrb
+OUTPUT out/main.vrb
+INPUT out/main.vrb
+INPUT out/main.vrb
+INPUT out/main.vrb
+INPUT out/main.vrb
 INPUT out/../images/img_6.png
 INPUT out/../images/img_6.png
 INPUT sections/../images/img_6.png

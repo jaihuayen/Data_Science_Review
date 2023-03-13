@@ -1,4 +1,4 @@
-\begin{frame}[fragile]{TF-IDF}
+\begin{frame}[fragile]{Defects of Word Frequency}
 
     \begin{itemize}
         \item The central idea of the NLP is how to quantify the content of the document.
@@ -26,6 +26,15 @@
         Inverse Document Frequency is defined as follows:
         $$idf_{t} = log(\frac{N}{df_{t}})$$
         where $N$ is the number of documents and $df_{t}$ is the the number of documents where word $t$ occurs.
+    \end{block}
+
+\end{frame}
+
+\begin{frame}[fragile]{TF-IDF}
+
+    \begin{block}{Definition (TF-IDF Score)}
+        The TF-IDF Score of the word $t$ in the document $d$ is defined as follows:
+        $$tfidf_{t,d} = tf_{t,d} \times idf_{t}$$
     \end{block}
 
 \end{frame}
