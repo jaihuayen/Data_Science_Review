@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.1)  12 MAR 2023 01:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.1)  13 MAR 2023 02:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1219,7 +1219,7 @@ thkerncmss.
 \openout4 = `main.vrb'.
 
  (out/main.vrb
-<sections/../images/img_1.png, id=74, 891.33pt x 544.0325pt>
+<sections/../images/img_1.png, id=80, 891.33pt x 544.0325pt>
 File: sections/../images/img_1.png Graphic file (type png)
 <use sections/../images/img_1.png>
 Package pdftex.def Info: sections/../images/img_1.png  used on input line 3.
@@ -1245,74 +1245,100 @@ File: ts1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 ]) [6
 
 ]
-(./sections/tfidf.tex) [7
-
-] (./sections/word2vec.tex
+(./sections/tfidf.tex
 \openout4 = `main.vrb'.
 
- (out/main.vrb) [8
+ (out/main.vrb) [7
 
 ]
 \openout4 = `main.vrb'.
 
+ (out/main.vrb)
+Overfull \vbox (16.22154pt too high) detected at line 31
+ []
 
-(out/main.vrb) [9
+[8
 
 ]
 \openout4 = `main.vrb'.
 
  (out/main.vrb
-<sections/../images/img_2.png, id=118, 728.7225pt x 262.9825pt>
+<sections/../images/img_6.png, id=115, 496.35437pt x 124.96687pt>
+File: sections/../images/img_6.png Graphic file (type png)
+<use sections/../images/img_6.png>
+Package pdftex.def Info: sections/../images/img_6.png  used on input line 13.
+(pdftex.def)             Requested size: 297.81493pt x 74.9807pt.
+) [9
+
+ <./sections/../images/img_6.png>]) [10
+
+]
+(./sections/word2vec.tex
+\openout4 = `main.vrb'.
+
+ (out/main.vrb) [11
+
+]
+\openout4 = `main.vrb'.
+
+ (out/main.vrb) [12
+
+]
+\openout4 = `main.vrb'.
+
+ (out/main.vrb
+<sections/../images/img_2.png, id=144, 728.7225pt x 262.9825pt>
 File: sections/../images/img_2.png Graphic file (type png)
 <use sections/../images/img_2.png>
 Package pdftex.def Info: sections/../images/img_2.png  used on input line 4.
 (pdftex.def)             Requested size: 218.61844pt x 78.89534pt.
-<sections/../images/img_3.png, id=119, 732.7375pt x 368.37625pt>
+<sections/../images/img_3.png, id=145, 732.7375pt x 368.37625pt>
 File: sections/../images/img_3.png Graphic file (type png)
 <use sections/../images/img_3.png>
 Package pdftex.def Info: sections/../images/img_3.png  used on input line 5.
 (pdftex.def)             Requested size: 219.82294pt x 110.51372pt.
-) [10
+) [13
 
  <./sections/../images/img_2.png> <./sections/../images/img_3.png>]
 \openout4 = `main.vrb'.
 
- (out/main.vrb
-<sections/../images/img_4.png, id=128, 783.92876pt x 488.82625pt>
+
+(out/main.vrb
+<sections/../images/img_4.png, id=155, 783.92876pt x 488.82625pt>
 File: sections/../images/img_4.png Graphic file (type png)
 <use sections/../images/img_4.png>
 Package pdftex.def Info: sections/../images/img_4.png  used on input line 4.
 (pdftex.def)             Requested size: 235.18044pt x 146.649pt.
-) [11
+) [14
 
  <./sections/../images/img_4.png>]
 \openout4 = `main.vrb'.
 
-
-(out/main.vrb
-<sections/../images/img_5.png, id=136, 407.5225pt x 472.76625pt>
+ (out/main.vrb
+<sections/../images/img_5.png, id=163, 407.5225pt x 472.76625pt>
 File: sections/../images/img_5.png Graphic file (type png)
 <use sections/../images/img_5.png>
 Package pdftex.def Info: sections/../images/img_5.png  used on input line 4.
 (pdftex.def)             Requested size: 122.25769pt x 141.83096pt.
-) [12
+) [15
 
- <./sections/../images/img_5.png>]) [13
+ <./sections/../images/img_5.png>]) [16
 
-]
-(./sections/transformer.tex) [14
-
-] (./sections/bert.tex) [15
+] (./sections/transformer.tex) [17
 
 ]
-(./sections/conclusion.tex)
+(./sections/bert.tex) [18
+
+] (./sections/gpt.tex) [19
+
+] (./sections/conclusion.tex)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\translate ' on input line 59.
+(hyperref)                removing `\translate ' on input line 63.
 
-[16
+[20
 
-] (./sections/appentix.tex (out/main.bbl) [17
+] (./sections/appentix.tex (out/main.bbl) [21
 
  </opt/texlive/texdir/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>])
 \tf@nav=\write6
@@ -1326,35 +1352,36 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
  (out/main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 131AB0EB07DA65A93DA7A624C6FE45C1;594.
+(rerunfilecheck)             Checksum: 12E4AA2C0A7486431167446B1F142DF1;652.
  ) 
 Here is how much of TeX's memory you used:
- 36318 strings out of 476024
- 878464 string characters out of 5792021
+ 36379 strings out of 476024
+ 879537 string characters out of 5792021
  1860388 words of memory out of 5000000
- 55976 multiletter control sequences out of 15000+600000
+ 56018 multiletter control sequences out of 15000+600000
  523110 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,122p,1873b,982s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,13n,122p,1883b,982s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</o
 pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/te
 xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive
-/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/texlive/texdi
-r/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></opt/texlive/texdir/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></opt/texlive/texdir/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmss8.pfb></opt/texlive/texdir/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmss9.pfb></opt/texlive/texdir/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmssbx10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmssi10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmssi8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmsy8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfss
-0800.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfss1000.p
-fb>
-Output written on out/main.pdf (17 pages, 547368 bytes).
+/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/texdi
+r/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/texlive/texdir/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></opt/texlive/texdir/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmss12.pfb></opt/texlive/texdir/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmss8.pfb></opt/texlive/texdir/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmss9.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmssbx10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmssi10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmssi8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy7.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.p
+fb></opt/texlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></o
+pt/texlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb>
+Output written on out/main.pdf (21 pages, 587909 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 186 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
- 124 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 297 PDF objects out of 1000 (max. 8388607)
+ 217 compressed objects within 3 object streams
+ 52 named destinations out of 1000 (max. 500000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,6 +1,7 @@
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
 \beamer@sectionintoc {2}{TF-IDF}{6}{0}{2}
-\beamer@sectionintoc {3}{Word2Vec}{7}{0}{3}
-\beamer@sectionintoc {4}{Transformer}{13}{0}{4}
-\beamer@sectionintoc {5}{BERT}{14}{0}{5}
-\beamer@sectionintoc {6}{Conclusion}{15}{0}{6}
+\beamer@sectionintoc {3}{Word2Vec}{10}{0}{3}
+\beamer@sectionintoc {4}{Transformer}{16}{0}{4}
+\beamer@sectionintoc {5}{BERT}{17}{0}{5}
+\beamer@sectionintoc {6}{GPT}{18}{0}{6}
+\beamer@sectionintoc {7}{Conclusion}{19}{0}{7}

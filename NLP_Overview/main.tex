@@ -1,8 +1,8 @@
 \documentclass[10pt]{beamer}
 
 \usetheme[progressbar=frametitle,
-subsectionpage=progressbar,
-block=fill]{metropolis}
+          subsectionpage=progressbar,
+          block=fill]{metropolis}
 \usepackage{appendixnumberbeamer}
 
 \usepackage{booktabs}
@@ -28,8 +28,8 @@ block=fill]{metropolis}
 \maketitle
 
 \begin{frame}{Table of contents}
-  \setbeamertemplate{section in toc}[sections numbered]
-  \tableofcontents%[hideallsubsections]
+    \setbeamertemplate{section in toc}[sections numbered]
+    \tableofcontents%[hideallsubsections]
 \end{frame}
 
 \section{Introduction}
@@ -52,6 +52,10 @@ block=fill]{metropolis}
 
 \subfile{sections/bert}
 
+\section{GPT}
+
+\subfile{sections/gpt}
+
 \section{Conclusion}
 
 \subfile{sections/conclusion}
@@ -61,7 +65,7 @@ block=fill]{metropolis}
 % Questions Slide
 
 \begin{frame}[standout]
-  Questions?
+    Questions?
 \end{frame}
 
 \subfile{sections/appentix}
