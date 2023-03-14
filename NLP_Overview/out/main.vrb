@@ -1,6 +1,7 @@
-\frametitle{Defects of Word2Vec}
+\frametitle{Architecture}
 
-    \begin{itemize}
-        \item
-    \end{itemize}
+    \begin{center}
+        \includegraphics[scale=0.25]{../images/img_10.png} \\
+        \href{http://jalammar.github.io/illustrated-bert/}{[Image Source]}
+    \end{center}
 

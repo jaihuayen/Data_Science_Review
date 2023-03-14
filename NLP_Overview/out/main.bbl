@@ -1,8 +1,14 @@
 \begin{thebibliography}{1}
 
-\bibitem{word2vec}
-T.~Mikolov et~al.
+\bibitem{mikolov2013efficient}
+T.~Mikolov, K.~Chen, G.~Corrado, and J.~Dean.
 \newblock Efficient estimation of word representations in vector space.
-\newblock {\em arXiv preprint arXiv}, 1301.3781, 2013.
+\newblock {\em arXiv preprint arXiv:1301.3781}, 2013.
+
+\bibitem{vaswani2017attention}
+A.~Vaswani, N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez,
+  {\L}.~Kaiser, and I.~Polosukhin.
+\newblock Attention is all you need.
+\newblock {\em Advances in neural information processing systems}, 30, 2017.
 
 \end{thebibliography}

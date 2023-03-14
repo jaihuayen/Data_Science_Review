@@ -34,10 +34,9 @@
 
 \end{frame}
 
-\begin{frame}[fragile]{Architecture}
-
+\begin{frame}[fragile]{Attention Is All You Need \cite{vaswani2017attention}}
     \begin{center}
-        \begin{tikzpicture}[scale=0.5, every node/.style={scale=0.5}]
+        \begin{tikzpicture}[scale=0.53, every node/.style={scale=0.53}]
             \definecolor{emb_color}{RGB}{252,224,225}
             \definecolor{multi_head_attention_color}{RGB}{252,226,187}
             \definecolor{add_norm_color}{RGB}{242,243,193}
@@ -143,6 +142,23 @@
                   \item Parallelizability
                   \item Interpretability
               \end{enumerate}
+    \end{itemize}
+
+\end{frame}
+
+\begin{frame}[fragile]{Masked Self-Attention}
+
+    \begin{itemize}
+        \item Masked Self-Attention prevents a word to peak at tokens to its right.
+    \end{itemize}
+
+    \begin{center}
+        \includegraphics[scale=0.3]{../images/img_11.png} \\
+        \href{https://jalammar.github.io/illustrated-gpt2/}{[Image Source]}
+    \end{center}
+
+    \begin{itemize}
+        \item This distinction is the major difference between GPT and BERT.
     \end{itemize}
 
 \end{frame}
