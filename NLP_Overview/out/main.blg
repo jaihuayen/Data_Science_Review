@@ -3,44 +3,46 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: abbrv.bst
 Database file #1: sections/main.bib
-You've used 2 entries,
+Warning--empty journal in radford2018improving
+You've used 4 entries,
             2118 wiz_defined-function locations,
-            508 strings with 4139 characters,
-and the built_in function-call counts, 752 in all, are:
-= -- 63
-> -- 66
+            517 strings with 4512 characters,
+and the built_in function-call counts, 1383 in all, are:
+= -- 118
+> -- 117
 < -- 0
-+ -- 26
-- -- 24
-* -- 61
-:= -- 148
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 18
++ -- 46
+- -- 42
+* -- 106
+:= -- 267
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 32
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 20
-empty$ -- 35
-format.name$ -- 24
-if$ -- 138
+cite$ -- 5
+duplicate$ -- 40
+empty$ -- 69
+format.name$ -- 42
+if$ -- 258
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 2
-newline$ -- 13
-num.names$ -- 4
-pop$ -- 16
+int.to.str$ -- 4
+missing$ -- 4
+newline$ -- 23
+num.names$ -- 8
+pop$ -- 32
 preamble$ -- 1
-purify$ -- 16
+purify$ -- 28
 quote$ -- 0
-skip$ -- 15
+skip$ -- 30
 stack$ -- 0
-substring$ -- 10
-swap$ -- 2
+substring$ -- 20
+swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
-warning$ -- 0
-while$ -- 4
-width$ -- 3
-write$ -- 23
+type$ -- 16
+warning$ -- 1
+while$ -- 8
+width$ -- 5
+write$ -- 42
+(There was 1 warning)

@@ -1,5 +1,9 @@
 \frametitle{Architecture}
 
+    \begin{itemize}
+        \item GPT: \textcolor{blue}{G}enerative \textcolor{blue}{P}re-trained \textcolor{blue}{T}ransformer \cite{radford2018improving}
+    \end{itemize}
+
     \begin{center}
         \includegraphics[scale=0.25]{../images/img_10.png} \\
         \href{http://jalammar.github.io/illustrated-bert/}{[Image Source]}

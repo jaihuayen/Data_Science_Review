@@ -1,9 +1,20 @@
 \begin{thebibliography}{1}
 
+\bibitem{devlin2018bert}
+J.~Devlin, M.-W. Chang, K.~Lee, and K.~Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock {\em arXiv preprint arXiv:1810.04805}, 2018.
+
 \bibitem{mikolov2013efficient}
 T.~Mikolov, K.~Chen, G.~Corrado, and J.~Dean.
 \newblock Efficient estimation of word representations in vector space.
 \newblock {\em arXiv preprint arXiv:1301.3781}, 2013.
+
+\bibitem{radford2018improving}
+A.~Radford, K.~Narasimhan, T.~Salimans, I.~Sutskever, et~al.
+\newblock Improving language understanding by generative pre-training.
+\newblock 2018.
 
 \bibitem{vaswani2017attention}
 A.~Vaswani, N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez,

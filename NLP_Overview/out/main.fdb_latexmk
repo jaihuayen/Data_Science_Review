@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex out/main"] 1678782932 "out/main.aux" "out/main.bbl" "out/main" 1678783952 0
-  "./sections/main.bib" 1678781368 596 0463fce00f19d254e22a36902d0bfe4c ""
+["bibtex out/main"] 1678784425 "out/main.aux" "out/main.bbl" "out/main" 1678784431 0
+  "./sections/main.bib" 1678784415 1135 b8e28698acd9be92f161830b274ff0d2 ""
   "/opt/texlive/texdir/texmf-dist/bibtex/bst/base/abbrv.bst" 1292289607 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "out/main.aux" 1678783952 6930 ff0a63b6e12d53469110bd722b183647 "pdflatex"
+  "out/main.aux" 1678784430 7260 9250ca769979f6d9617c02bc7e99bd7e "pdflatex"
   (generated)
   "out/main.bbl"
   "out/main.blg"
   (rewritten before read)
-["pdflatex"] 1678783948 "main.tex" "out/main.pdf" "main" 1678783952 0
+["pdflatex"] 1678784426 "main.tex" "out/main.pdf" "main" 1678784431 0
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/opt/texlive/texdir/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/jknappen/ec/tcss0900.tfm" 1136768653 1536 ba0169ee8bc017972775b933313cbbb0 ""
@@ -308,12 +308,12 @@
   "out/../images/img_7.png" 1678691008 67773 f1e27450f2ee50f1941bb94fb93c6686 ""
   "out/../images/img_8.png" 1678780730 186892 768f76ddb213327606deb1356f56f283 ""
   "out/../images/img_9.png" 1678781722 29888 3539f9d5dd2ad5e88272d198c31b4902 ""
-  "out/main.aux" 1678783952 6930 ff0a63b6e12d53469110bd722b183647 "pdflatex"
-  "out/main.bbl" 1678782932 507 c1b14c48b753b28e57ba423d6f14480a "bibtex out/main"
-  "out/main.nav" 1678783952 4043 64bf5b99bdfff2d3c0b7ee518bc48fe4 "pdflatex"
-  "out/main.out" 1678783952 559 2e634f6d2206d80ef9e76b7f7dff9906 "pdflatex"
-  "out/main.toc" 1678783952 264 678d0f38bfde28a0966750ae6b976dcc "pdflatex"
-  "out/main.vrb" 1678783952 201 9067cf09a781e03689e1e873f6ae2e27 "pdflatex"
+  "out/main.aux" 1678784430 7260 9250ca769979f6d9617c02bc7e99bd7e "pdflatex"
+  "out/main.bbl" 1678784426 912 e85059468a473267f621b4d912045d33 "bibtex out/main"
+  "out/main.nav" 1678784430 4135 a27194718685917adb35d51362829436 "pdflatex"
+  "out/main.out" 1678784430 559 2e634f6d2206d80ef9e76b7f7dff9906 "pdflatex"
+  "out/main.toc" 1678784430 264 678d0f38bfde28a0966750ae6b976dcc "pdflatex"
+  "out/main.vrb" 1678784430 376 200bfbf6dbccf6abb427d46794bb1461 "pdflatex"
   "sections/../images/img_1.png" 1678668927 97571 f0ce101ef3a0b19cfba859eb661092d3 ""
   "sections/../images/img_10.png" 1678782640 60189 f84543293d0aa8a8c4eb30c4f0ee6fd6 ""
   "sections/../images/img_11.png" 1678783591 39762 47937f456423db31e2aeebe2621399c4 ""
@@ -326,11 +326,11 @@
   "sections/../images/img_8.png" 1678780730 186892 768f76ddb213327606deb1356f56f283 ""
   "sections/../images/img_9.png" 1678781722 29888 3539f9d5dd2ad5e88272d198c31b4902 ""
   "sections/appentix.tex" 1678668927 107 e853370b829f06a558012f96021a9749 ""
-  "sections/bert.tex" 1678782717 629 44b01943ec06d491cf55b7d9ceb1877d ""
-  "sections/gpt.tex" 1678782837 223 6cd5c297f9965365c5a23fe269921355 ""
+  "sections/bert.tex" 1678784416 650 33a964e80341ea6dbf60cf91d3d15d24 ""
+  "sections/gpt.tex" 1678784415 398 784121396d09cb93761fbaa3991abcec ""
   "sections/introduction.tex" 1678668927 903 ec85a5047d1f0dbf1fc94da70d942ebf ""
   "sections/tfidf.tex" 1678674146 2394 a6931a8ba14fdbf69db4c44d4a4fdb30 ""
-  "sections/transformer.tex" 1678783947 16278 47de407fd43640f842c32ec2b256f485 ""
+  "sections/transformer.tex" 1678784265 16322 e97849df1f93a3e7de8431e6446a6abf ""
   "sections/word2vec.tex" 1678781319 2079 95c429037777fc017e96012ccc0d6167 ""
   (generated)
   "out/main.aux"
